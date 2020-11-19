@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=StatsJUnitTest
+comment1.params=
+comment1.target=void\ runBeforeEachTest()
+comment10.params=
+comment10.target=void\ recordTestEight()
+comment11.params=
+comment11.target=void\ recordScoresTestNine()
+comment12.params=
+comment12.target=void\ recordScoresTestTen()
+comment2.params=
+comment2.target=void\ runAfterEachTest()
+comment3.params=
+comment3.target=void\ recordTestOne()
+comment4.params=
+comment4.target=void\ recordTestTwo()
+comment5.params=
+comment5.target=void\ recordTestThree()
+comment6.params=
+comment6.target=void\ recordTestFour()
+comment7.params=
+comment7.target=void\ recordTestFive()
+comment8.params=
+comment8.target=void\ recordTestSix()
+comment9.params=
+comment9.target=void\ recordTestSeven()
+numComments=13

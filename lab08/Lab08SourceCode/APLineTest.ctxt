@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=APLineTest
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Alwin\ Tareen\r\n\ \ Created\:\ \ \ \ \ \ Dec\ 01,\ 2018\r\n\ \ Last\ updated\:\ Dec\ 01,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ APLineTest.java\r\n\ \ Execution\:\ \ \ \ java\ APLineTest\r\n\r\n\ \ This\ program\ is\ the\ test\ bench\ for\ APLine.java\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

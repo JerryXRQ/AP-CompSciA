@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CodeWordChecker
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Jerry\ Xu\r\n\ \ Created\:\ \ \ \ \ \ Apr\ 26,\ 2019\r\n\ \ Last\ updated\:\ Apr\ 26,\ 2019\r\n\r\n\ \ Compilation\:\ \ javac\ CodeWordChecker.java\r\n\ \ Execution\:\ \ \ \ java\ CodeWordChecker\r\n\ \ \r\n\ \ This\ program\ determines\ whether\ a\ string\ conforms\ to\ some\ defined\ criteria.\r\n\r\n
+comment1.params=a\ b\ c
+comment1.target=CodeWordChecker(int,\ int,\ java.lang.String)
+comment2.params=d
+comment2.target=CodeWordChecker(java.lang.String)
+comment3.params=C
+comment3.target=boolean\ isValid(java.lang.String)
+numComments=4

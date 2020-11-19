@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CrosswordJUnitTest
+comment1.params=
+comment1.target=void\ runBeforeEachTest()
+comment2.params=
+comment2.target=void\ runAfterEachTest()
+comment3.params=
+comment3.target=void\ toBeLabeledTestOne()
+numComments=4

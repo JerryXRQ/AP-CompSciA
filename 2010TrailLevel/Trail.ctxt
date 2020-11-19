@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Trail
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ YOUR\ NAME\ HERE\r\n\ \ Created\:\ \ \ \ \ \ Dec\ 05,\ 2018\r\n\ \ Last\ updated\:\ Dec\ 05,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ Trail.java\r\n\ \ Execution\:\ \ \ \ java\ Trail\r\n\r\n\ \ This\ program\ determines\ whether\ a\ trail\ is\ level\ or\ difficult.\r\n\r\n
+comment1.params=posts
+comment1.target=Trail(int[])
+comment2.params=start\ end
+comment2.target=boolean\ isLevelTrailSegment(int,\ int)
+comment3.params=
+comment3.target=boolean\ isDifficult()
+numComments=4

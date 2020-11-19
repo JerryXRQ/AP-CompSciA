@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=APLine
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Jerry\ Xu\r\n\ \ Created\:\ \ \ \ \ \ Dec\ 07,\ 2018\r\n\ \ Last\ updated\:\ Dec\ 07,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ APLine.java\r\n\ \ Execution\:\ \ \ \ java\ APLine\r\n\r\n\ \ This\ program\ defines\ the\ equation\ of\ a\ straight\ line.\r\n\r\n
+comment1.params=mya\ myb\ myc
+comment1.target=APLine(int,\ int,\ int)
+comment2.params=
+comment2.target=double\ getSlope()
+comment3.params=x\ y
+comment3.target=boolean\ isOnLine(int,\ int)
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WordScrambler
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Jerry\ Xu\r\n\ \ Created\:\ \ \ \ \ \ Mar\ 1,\ 2019\r\n\ \ Last\ updated\:\ Mar\ 1,\ 2019\r\n\r\n\ \ Compilation\:\ \ javac\ WordScrambler.java\r\n\ \ Execution\:\ \ \ \ java\ WordScrambler\r\n\ \ \r\n\ \ This\ program\ combines\ parts\ of\ words\ together.\r\n\r\n
+comment1.params=wordArr
+comment1.target=WordScrambler(java.lang.String[])
+comment2.params=word1\ word2
+comment2.target=java.lang.String\ recombine(java.lang.String,\ java.lang.String)
+comment3.params=words
+comment3.target=java.lang.String[]\ mixedWords(java.lang.String[])
+numComments=4

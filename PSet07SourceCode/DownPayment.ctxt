@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DownPayment
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Jerry\ Xu\r\n\ \ Created\:\ \ \ \ \ \ Oct\ 29,\ 2018\r\n\ \ Last\ updated\:\ Oct\ 29,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ DownPayment.java\r\n\ \ Execution\:\ \ \ \ java\ DownPayment\r\n\r\n\ \ This\ program\ determines\ the\ number\ of\ months\ required\ for\ a\ down\ payment.\r\n\r\n
+comment1.params=annualSalary\ percentSaved\ totalCost\ payRaise
+comment1.target=int\ savingsDuration(double,\ double,\ double,\ double)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TemperatureGrid
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Jerry\ Xu\r\n\ \ Created\:\ \ \ \ \ \ Mar\ 15,\ 2019\r\n\ \ Last\ updated\:\ Mar\ 15,\ 2019\r\n\r\n\ \ Compilation\:\ \ javac\ TemperatureGrid.java\r\n\ \ Execution\:\ \ \ \ java\ TemperatureGrid\r\n\ \ \r\n\ \ This\ program\ updates\ a\ grid\ of\ temperature\ values.\r\n\r\n
+comment1.params=tempArr
+comment1.target=TemperatureGrid(double[][])
+comment2.params=row\ col
+comment2.target=double\ computeTemp(int,\ int)
+comment3.params=tolerance
+comment3.target=boolean\ updateAllTemps(double)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=double[][]\ getTemps()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DiscountBill
+comment1.params=p
+comment1.target=DiscountBill(boolean)
+comment2.params=
+comment2.target=int\ getDiscountCount()
+comment3.params=
+comment3.target=double\ getDiscountAmount()
+comment4.params=
+comment4.target=double\ getDiscountPercent()
+comment5.params=
+comment5.target=double\ getTotal()
+numComments=6

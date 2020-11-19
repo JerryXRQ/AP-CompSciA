@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=isBlack\ num
+comment0.target=Square(boolean,\ int)
+comment1.params=
+comment1.target=int\ getNumber()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Crossword
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Alwin\ Tareen\r\n\ \ Created\:\ \ \ \ \ \ Feb\ 18,\ 2019\r\n\ \ Last\ updated\:\ Feb\ 18,\ 2019\r\n\r\n\ \ Compilation\:\ \ javac\ Crossword.java\r\n\ \ Execution\:\ \ \ \ java\ Crossword\r\n\ \ \r\n\ \ This\ program\ implements\ the\ coloring\ scheme\ and\ numbering\ pattern\ on\ a\r\n\ \ crossword\ puzzle.\r\n\r\n
+comment1.params=blackSquares
+comment1.target=Crossword(boolean[][])
+comment2.params=r\ c\ blackSquares
+comment2.target=boolean\ toBeLabeled(int,\ int,\ boolean[][])
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

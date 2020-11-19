@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WordScramblerTest
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Alwin\ Tareen\r\n\ \ Created\:\ \ \ \ \ \ Feb\ 13,\ 2019\r\n\ \ Last\ updated\:\ Feb\ 13,\ 2019\r\n\r\n\ \ Compilation\:\ \ javac\ WordScramblerTest.java\r\n\ \ Execution\:\ \ \ \ java\ WordScramblerTest\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

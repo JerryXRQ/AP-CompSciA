@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StockBroker
+comment1.params=
+comment1.target=StockBroker()
+comment2.params=currentPrice
+comment2.target=double\ getProfit(double)
+comment3.params=amount\ price
+comment3.target=void\ purchase(int,\ double)
+numComments=4

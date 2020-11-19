@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=k\ nums
+comment1.target=void\ surprise(int,\ java.lang.String)
+comment2.params=n
+comment2.target=int\ doesWhat(int)
+comment3.params=p
+comment3.target=int\ prod(int)
+comment4.params=n
+comment4.target=void\ func(int)
+comment5.params=n\ k
+comment5.target=int\ mystery(int,\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

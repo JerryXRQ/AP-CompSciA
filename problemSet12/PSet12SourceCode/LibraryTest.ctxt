@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LibraryTest
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Alwin\ Tareen\r\n\ \ Created\:\ \ \ \ \ \ Jan\ 22,\ 2018\r\n\ \ Last\ updated\:\ Jan\ 22,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ LibraryTest.java\r\n\ \ Execution\:\ \ \ \ java\ LibraryTest\r\n\ \ \r\n\ \ The\ LibraryTest\ class\ provides\ a\ testbench\ for\ the\ Library\ class.\r\n\ \ \r\n\ \ DO\ NOT\ modify\ any\ code\ in\ this\ class.\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

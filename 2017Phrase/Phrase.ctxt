@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Phrase
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Alwin\ Tareen\r\n\ \ Created\:\ \ \ \ \ \ Feb\ 18,\ 2019\r\n\ \ Last\ updated\:\ Feb\ 18,\ 2019\r\n\r\n\ \ Compilation\:\ \ javac\ Phrase.java\r\n\ \ Execution\:\ \ \ \ java\ Phrase\r\n\ \ \r\n\ \ This\ program\ involves\ analyzing\ and\ modifying\ a\ string.\r\n\r\n
+comment1.params=p
+comment1.target=Phrase(java.lang.String)
+comment2.params=str\ n
+comment2.target=int\ findNthOccurrence(java.lang.String,\ int)
+comment3.params=str\ n\ repl
+comment3.target=void\ replaceNthOccurrence(java.lang.String,\ int,\ java.lang.String)
+comment4.params=str
+comment4.target=int\ findLastOccurrence(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=bookTitle
+comment0.target=Book(java.lang.String)
+comment1.params=
+comment1.target=void\ rented()
+comment2.params=
+comment2.target=void\ returned()
+comment3.params=
+comment3.target=boolean\ isBorrowed()
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+numComments=5

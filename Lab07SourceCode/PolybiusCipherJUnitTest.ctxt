@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PolybiusCipherJUnitTest
+comment1.params=
+comment1.target=void\ runBeforeEachTest()
+comment10.params=
+comment10.target=void\ testEight()
+comment11.params=
+comment11.target=void\ testNine()
+comment12.params=
+comment12.target=void\ testTen()
+comment2.params=
+comment2.target=void\ runAfterEachTest()
+comment3.params=
+comment3.target=void\ testOne()
+comment4.params=
+comment4.target=void\ testTwo()
+comment5.params=
+comment5.target=void\ testThree()
+comment6.params=
+comment6.target=void\ testFour()
+comment7.params=
+comment7.target=void\ testFive()
+comment8.params=
+comment8.target=void\ testSix()
+comment9.params=
+comment9.target=void\ testSeven()
+numComments=13

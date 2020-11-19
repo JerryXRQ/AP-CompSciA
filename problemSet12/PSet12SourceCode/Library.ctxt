@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Library
+comment1.params=libraryAddress
+comment1.target=Library(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ displayOpeningHours()
+comment3.params=
+comment3.target=java.lang.String\ displayAddress()
+comment4.params=novel
+comment4.target=java.lang.String\ addBook(Book)
+comment5.params=novelName
+comment5.target=java.lang.String\ borrowBook(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ displayAvailableBooks()
+comment7.params=textName
+comment7.target=java.lang.String\ returnBook(java.lang.String)
+numComments=8

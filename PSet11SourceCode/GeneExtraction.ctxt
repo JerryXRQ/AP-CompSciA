@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GeneExtraction
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Jerry\ Xu\r\n\ \ Created\:\ \ \ \ \ \ Nov\ 4,\ 2018\r\n\ \ Last\ updated\:\ Nov\ 4,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ GeneExtraction.java\r\n\ \ Execution\:\ \ \ \ java\ GeneExtraction\r\n\r\n\ \ This\ program\ determines\ whether\ a\ gene\ is\ present\ in\ a\ DNA\ sequence.\r\n\r\n
+comment1.params=dna
+comment1.target=java.lang.String\ geneSequence(java.lang.String)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

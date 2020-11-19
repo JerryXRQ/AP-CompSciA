@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PolybiusCipher
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ YOUR\ NAME\ HERE\r\n\ \ Created\:\ \ \ \ \ \ Nov\ 10,\ 2018\r\n\ \ Last\ updated\:\ Nov\ 10,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ PolybiusCipher.java\r\n\ \ Execution\:\ \ \ \ java\ PolybiusCipher\r\n\r\n\ \ This\ program\ encrypts\ a\ message\ using\ the\ polybius\ cipher.\r\n\r\n
+comment1.params=message\ key
+comment1.target=java.lang.String\ decrypt(java.lang.String,\ java.lang.String[][])
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

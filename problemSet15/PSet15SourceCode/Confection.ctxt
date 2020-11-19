@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Confection(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=double\ getCost()
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LinearFunction
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Jerry\ Xu\r\n\ \ Created\:\ \ \ \ \ \ Apr\ 1,\ 2018\r\n\ \ Last\ updated\:\ Apr\ 1,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ LinearFunction.java\r\n\ \ Execution\:\ \ \ \ java\ LinearFunction\r\n\r\n
+comment1.params=slope\ yinter
+comment1.target=LinearFunction(double,\ double)
+comment2.params=
+comment2.target=double\ getSlope()
+comment3.params=
+comment3.target=double\ getYintercept()
+comment4.params=
+comment4.target=double\ getXintercept()
+comment5.params=x
+comment5.target=double\ getYvalue(double)
+comment6.params=y
+comment6.target=double\ getXvalue(double)
+numComments=7

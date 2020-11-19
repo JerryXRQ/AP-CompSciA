@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Mountain
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ YOUR\ NAME\ HERE\r\n\ \ Created\:\ \ \ \ \ \ Feb\ 14,\ 2019\r\n\ \ Last\ updated\:\ Feb\ 14,\ 2019\r\n\r\n\ \ Compilation\:\ \ javac\ Mountain.java\r\n\ \ Execution\:\ \ \ \ java\ Mountain\r\n\ \ \r\n\ \ This\ program\ determines\ if\ an\ array\ satisfies\ mountain\ properties.\r\n\r\n
+comment1.params=array\ stop
+comment1.target=boolean\ isIncreasing(int[],\ int)
+comment2.params=array\ start
+comment2.target=boolean\ isDecreasing(int[],\ int)
+comment3.params=array
+comment3.target=int\ getPeakIndex(int[])
+comment4.params=array
+comment4.target=boolean\ isMountain(int[])
+numComments=5

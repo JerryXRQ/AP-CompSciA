@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Cake
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Jerry\ Xu\r\n\ \ Created\:\ \ \ \ \ \ Mar\ 19,\ 2018\r\n\ \ Last\ updated\:\ Feb\ 19,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ Cake.java\r\n\ \ Execution\:\ \ \ \ java\ Cake\r\n\r\n
+comment1.params=n\ quantity\ price
+comment1.target=Cake(java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=double\ getCost()
+numComments=3

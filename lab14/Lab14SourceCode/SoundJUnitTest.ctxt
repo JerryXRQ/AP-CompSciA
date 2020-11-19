@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=SoundJUnitTest
+comment1.params=
+comment1.target=void\ runBeforeEachTest()
+comment10.params=
+comment10.target=void\ trimSilenceFromBeginningEight()
+comment11.params=
+comment11.target=void\ trimSilenceFromBeginningNine()
+comment12.params=
+comment12.target=void\ trimSilenceFromBeginningTen()
+comment2.params=
+comment2.target=void\ runAfterEachTest()
+comment3.params=
+comment3.target=void\ limitAmplitudeTestOne()
+comment4.params=
+comment4.target=void\ limitAmplitudeTestTwo()
+comment5.params=
+comment5.target=void\ limitAmplitudeTestThree()
+comment6.params=
+comment6.target=void\ limitAmplitudeTestFour()
+comment7.params=
+comment7.target=void\ limitAmplitudeTestFive()
+comment8.params=
+comment8.target=void\ limitAmplitudeTestSix()
+comment9.params=
+comment9.target=void\ trimSilenceFromBeginningTestSeven()
+numComments=13

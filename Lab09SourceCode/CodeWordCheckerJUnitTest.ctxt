@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CodeWordCheckerJUnitTest
+comment1.params=
+comment1.target=void\ runBeforeEachTest()
+comment10.params=
+comment10.target=void\ isValidTestEight()
+comment2.params=
+comment2.target=void\ runAfterEachTest()
+comment3.params=
+comment3.target=void\ isValidTestOne()
+comment4.params=
+comment4.target=void\ isValidTestTwo()
+comment5.params=
+comment5.target=void\ isValidTestThree()
+comment6.params=
+comment6.target=void\ isValidTestFour()
+comment7.params=
+comment7.target=void\ isValidTestFive()
+comment8.params=
+comment8.target=void\ isValidTestSix()
+comment9.params=
+comment9.target=void\ isValidTestSeven()
+numComments=11

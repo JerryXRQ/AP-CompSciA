@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Cookie
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Jerry\ Xu\r\n\ \ Created\:\ \ \ \ \ \ Mar\ 19,\ 2019\r\n\ \ Last\ updated\:\ Mar\ 19,\ 2019\r\n\r\n\ \ Compilation\:\ \ javac\ Cookie.java\r\n\ \ Execution\:\ \ \ \ java\ Cookie\r\n\r\n
+comment1.params=n\ quantity\ price
+comment1.target=Cookie(java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=double\ getCost()
+numComments=3

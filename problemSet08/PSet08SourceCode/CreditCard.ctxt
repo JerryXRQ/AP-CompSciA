@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CreditCard
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Jerry\ Xu\r\n\ \ Created\:\ \ \ \ \ \ Nov\ 05,\ 2018\r\n\ \ Last\ updated\:\ Nov\ 05,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ CreditCard.java\r\n\ \ Execution\:\ \ \ \ java\ CreditCard\r\n\r\n\ \ This\ program\ checks\ the\ validity\ of\ credit\ card\ numbers.\r\n\r\n\ \ Valid\ credit\ card\:\ \ AMEX\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ MASTERCARD\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ VISA\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ VALID\r\n\r\n\ \ Invalid\ credit\ card\:\ INVALID\r\n\r\n\ \ Valid\ test\ values\:\r\n\ \ "378282246310005"\ \ \ AMEX\r\n\ \ "371449635398431"\ \ \ AMEX\r\n\ \ "5555555555554444"\ \ MASTERCARD\r\n\ \ "5105105105105100"\ \ MASTERCARD\r\n\ \ "4111111111111111"\ \ VISA\r\n\ \ "4012888888881881"\ \ VISA\r\n\ \ "6451962466988955"\ \ VALID\r\n\r\n\ \ Invalid\ test\ values\:\r\n\ \ "6176292929"\ \ \ \ \ \ \ \ INVALID\r\n\ \ "1234567890314"\ \ \ \ \ INVALID\r\n\r\n
+comment1.params=digits
+comment1.target=java.lang.String\ validate(java.lang.String)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

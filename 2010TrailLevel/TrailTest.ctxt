@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TrailTest
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ YOUR\ NAME\ HERE\r\n\ \ Created\:\ \ \ \ \ \ Dec\ 05,\ 2018\r\n\ \ Last\ updated\:\ Dec\ 05,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ TrailTest.java\r\n\ \ Execution\:\ \ \ \ java\ TrailTest\r\n\r\n\ \ This\ program\ determines\ whether\ a\ trail\ is\ level\ or\ difficult.\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

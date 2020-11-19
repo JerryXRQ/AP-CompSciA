@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GroceryBill()
+comment1.params=
+comment1.target=double\ getTotal()
+comment2.params=
+comment2.target=java.lang.String\ createReceipt()
+comment3.params=
+comment3.target=java.util.ArrayList\ getBasket()
+comment4.params=p
+comment4.target=void\ purchase(Product)
+numComments=5

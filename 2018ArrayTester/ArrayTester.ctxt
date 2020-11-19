@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ArrayTester
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Alwin\ Tareen\r\n\ \ Created\:\ \ \ \ \ \ Feb\ 18,\ 2019\r\n\ \ Last\ updated\:\ Feb\ 18,\ 2019\r\n\r\n\ \ Compilation\:\ \ javac\ ArrayTester.java\r\n\ \ Execution\:\ \ \ \ java\ ArrayTester\r\n\ \ \r\n\ \ This\ program\ implements\ mathematical\ array\ operations.\r\n\r\n
+comment1.params=arr2D\ c
+comment1.target=int[]\ getColumn(int[][],\ int)
+comment2.params=arr1\ arr2
+comment2.target=boolean\ hasAllValues(int[],\ int[])
+comment3.params=arr
+comment3.target=boolean\ containsDuplicates(int[])
+comment4.params=square
+comment4.target=boolean\ isLatin(int[][])
+numComments=5

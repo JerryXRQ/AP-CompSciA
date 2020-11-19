@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CaesarCipher
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Jerry\ Xu\r\n\ \ Created\:\ \ \ \ \ \ Nov\ 10,\ 2018\r\n\ \ Last\ updated\:\ Nov\ 10,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ CaesarCipher.java\r\n\ \ Execution\:\ \ \ \ java\ CaesarCipher\r\n\r\n\ \ This\ program\ encrypts\ a\ message\ using\ the\ caesar\ cipher.\r\n\r\n
+comment1.params=message\ key
+comment1.target=java.lang.String\ encrypt(java.lang.String,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CheckoutJUnitTest
+comment1.params=
+comment1.target=void\ runBeforeEachTest()
+comment10.params=
+comment10.target=void\ totalCostTestEight()
+comment11.params=
+comment11.target=void\ totalTaxTestNine()
+comment12.params=
+comment12.target=void\ totalTaxTestTen()
+comment2.params=
+comment2.target=void\ runAfterEachTest()
+comment3.params=
+comment3.target=void\ numberOfItemsTestOne()
+comment4.params=
+comment4.target=void\ totalCostTestTwo()
+comment5.params=
+comment5.target=void\ totalTaxTestThree()
+comment6.params=
+comment6.target=void\ numberOfItemsTestFour()
+comment7.params=
+comment7.target=void\ totalCostTestFive()
+comment8.params=
+comment8.target=void\ totalTaxTestSix()
+comment9.params=
+comment9.target=void\ numberOfItemsTestSeven()
+numComments=13

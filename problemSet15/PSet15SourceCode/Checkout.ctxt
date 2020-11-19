@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Checkout
+comment1.params=
+comment1.target=Checkout()
+comment2.params=
+comment2.target=int\ numberOfItems()
+comment3.params=
+comment3.target=double\ totalCost()
+comment4.params=
+comment4.target=double\ totalTax()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=c
+comment6.target=void\ purchase(Confection)
+comment7.params=
+comment7.target=void\ clear()
+numComments=8

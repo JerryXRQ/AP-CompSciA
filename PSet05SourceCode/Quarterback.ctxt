@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Quarterback
+comment0.text=\r\n\ \ Author\:\ \ \ \ \ \ \ Jerry\ Xu\r\n\ \ Created\:\ \ \ \ \ \ Oct\ 09,\ 2018\r\n\ \ Last\ updated\:\ Oct\ 09,\ 2018\r\n\r\n\ \ Compilation\:\ \ javac\ Quarterback.java\r\n\ \ Execution\:\ \ \ \ java\ Quarterback\r\n\r\n\ \ This\ program\ determines\ the\ passer\ rating\ of\ an\ NFL\ quarterback.\r\n\r\n
+comment1.params=attempts\ comps\ yards\ tdowns\ ints
+comment1.target=double\ quarterbackRating(int,\ int,\ int,\ int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
